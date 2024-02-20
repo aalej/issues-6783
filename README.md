@@ -26,9 +26,9 @@ RESPONSE RECEIVED FROM FUNCTION: 200, {
 
 # v13.3.0
 
-Note: invoked function 2 times here
-Fist Invoke - `myCallableFunction({'foo': 'bar'})`
-Second Invoke - `myCallableFunction({ data: {'foo': 'bar'}})`
+Note: invoked function 2 times here <br>
+Fist Invoke - `myCallableFunction({'foo': 'bar'})` <br>
+Second Invoke - `myCallableFunction({ data: {'foo': 'bar'}})` <br>
 
 ```shell
 $ firebase --version
